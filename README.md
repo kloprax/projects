@@ -1,3 +1,3 @@
 # Projects
 
-C ile yazdığım programlar.
+Öylesine programlar
