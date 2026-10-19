@@ -1,3 +1,3 @@
 # Projects
 
-Öylesine programlar
+Dil öğrenirken alıştırma için yazdığım programlar.
