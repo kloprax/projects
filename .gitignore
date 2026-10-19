@@ -1,15 +1,4 @@
-*.o
 *.out
-a.out
-*.exe
 bin/
-build/
-test
+obj/
 .vscode/
-
-*
-!*/
-!*.c
-!*.h
-!*.md
-!.gitignore
